@@ -1,0 +1,7 @@
+Cedar Demo is a fictional software company used for this RAG example.
+
+Standard customer support hours are Monday through Friday, 9:00 AM to 5:00 PM local time.
+
+Customers can contact support through the customer portal. Critical production incidents should be marked as priority P1.
+
+The support team aims to acknowledge normal support requests within one business day.

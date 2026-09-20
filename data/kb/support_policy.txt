@@ -1,0 +1,11 @@
+Support Escalation Policy
+
+Priority P1 incidents are production issues that prevent the core service from functioning for a customer.
+
+P1 incidents should be escalated immediately to the on-call engineering team.
+
+Priority P2 incidents significantly affect functionality but have an available workaround.
+
+P2 incidents should normally be reviewed by the support lead during business hours.
+
+Priority P3 requests are normal questions, minor issues, or feature requests and follow the standard support queue.
