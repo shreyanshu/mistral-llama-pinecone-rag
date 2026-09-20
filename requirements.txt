@@ -1,0 +1,8 @@
+torch
+transformers
+accelerate
+bitsandbytes
+huggingface_hub
+pinecone
+python-dotenv
+sentence-transformers
